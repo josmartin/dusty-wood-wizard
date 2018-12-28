@@ -1,0 +1,30 @@
+[
+    {
+        "id": 0,
+        "name": "Wine rack",
+        "image": "works/wine-rack/wine2_wide.jpg",
+        "url": "works/wine-rack",
+        "items": []
+    },
+    {
+        "id": 1,
+        "name": "Custom table",
+        "image": "works/table/table_wide.jpg",
+        "url": "works/table",
+        "items": []
+    },
+    {
+        "id": 2,
+        "name": "Nested stools",
+        "image": "works/nested-stool/nested_wide.jpg",
+        "url": "works/nested-stool",
+        "items": []
+    },
+    {
+        "id": 3,
+        "name": "Wood carving",
+        "image": "works/carving/carving_wide.jpg",
+        "url": "works/carving",
+        "items": []
+    }
+]
