@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://dustywoodwizard.bedewell.com/about/</loc>
+  </url>
+  
+  <url>
+    <loc>https://dustywoodwizard.bedewell.com/post/vivamus-lacus-mauris/</loc>
+    <lastmod>2018-06-18T12:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dustywoodwizard.bedewell.com/works/table/</loc>
+    <lastmod>2018-06-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dustywoodwizard.bedewell.com/works/nested-stool/</loc>
+    <lastmod>2018-06-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dustywoodwizard.bedewell.com/works/wine-rack/</loc>
+    <lastmod>2018-06-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dustywoodwizard.bedewell.com/works/carving/</loc>
+    <lastmod>2018-06-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dustywoodwizard.bedewell.com/post/vivamus-lacus-mauris-next/</loc>
+    <lastmod>2018-05-14T12:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dustywoodwizard.bedewell.com/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://dustywoodwizard.bedewell.com/service/service1/</loc>
+  </url>
+  
+  <url>
+    <loc>https://dustywoodwizard.bedewell.com/service/service4/</loc>
+  </url>
+  
+  <url>
+    <loc>https://dustywoodwizard.bedewell.com/post/</loc>
+    <lastmod>2018-06-18T12:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://dustywoodwizard.bedewell.com/service/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://dustywoodwizard.bedewell.com/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://dustywoodwizard.bedewell.com/</loc>
+    <lastmod>2018-06-18T12:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://dustywoodwizard.bedewell.com/service/service2/</loc>
+  </url>
+  
+  <url>
+    <loc>https://dustywoodwizard.bedewell.com/service/service3/</loc>
+  </url>
+  
+  <url>
+    <loc>https://dustywoodwizard.bedewell.com/works/</loc>
+    <lastmod>2018-06-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
