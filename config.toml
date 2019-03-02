@@ -8,7 +8,7 @@ theme = "hugo-initio"
     description = "Jason Bainbridge"
     email = "jason@dustywoodwizard.com"
     phone = "+44 23 9873237"
-    address = "Somewhere in Kent, TN Something"
+    address = "Iwade, Kent"
     year = 2019
     avatar = "images/avatar.jpg"
     background = ""
@@ -52,24 +52,24 @@ theme = "hugo-initio"
     footer = true
     sharethis = true
     network = "facebook"
-[[params.social]]
-	title = "twitter"
-	url = "https://twitter.com/thedustywoodwizard"
-    icon = "fa-twitter-square"
-    footer = true
-    sharethis = true
-    network = "twitter"
-[[params.social]]
-	title = "instagram"
-	url = "https://www.instagram.com/nickname"
-    icon = "fa-instagram"
-    footer = true
-    sharethis = false
-    network = ""
+#[[params.social]]
+#	title = "twitter"
+#	url = "https://twitter.com/thedustywoodwizard"
+#   icon = "fa-twitter-square"
+#   footer = true
+#   sharethis = true
+#   network = "twitter"
+#[[params.social]]
+#	title = "instagram"
+#	url = "https://www.instagram.com/nickname"
+#   icon = "fa-instagram"
+#   footer = true
+#   sharethis = false
+#   network = ""
 [[params.social]]
 	title = "email"
-	url = "mailto:some.email@somewhere.com"
+	url = "mailto:jason@dustywoodwizard.com"
     icon = "fa-envelope"
-    footer = false
+    footer = true
     sharethis = true
     network = "email"
